@@ -48,7 +48,7 @@ h1 align="center">Technical skills</h1>
 <h3>Other technologies where I have notions</h3>
 <p align="left">
   <a href="https://mui.com/core/" target="_blank" rel="noreferrer">
-    <img src="(https://camo.githubusercontent.com/f1711f466b9bbd685dafb7e109ee186ff126bb8b100eee77c600cdef7f522640/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667)" alt="mui" width="40" height="40"/>
+    <img src="https://camo.githubusercontent.com/f1711f466b9bbd685dafb7e109ee186ff126bb8b100eee77c600cdef7f522640/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" alt="mui" width="40" height="40"/>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/28924a8cf399c489a5debfdd9e1f50fd4f936faf7defd401a4dcf8c3f5f19008/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f636d732d73746f726167652d6275636b65742f63383233653533623361316137623064333661392e706e67" alt="flutter" width="40" height="40"/>
   </a>
