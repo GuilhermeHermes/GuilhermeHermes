@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-h1 align="center">Technical skills</h1>
-<h3 align="left">Currently learning:
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40"/>
-  </a>
-</h3>
 <h3>Front-end technologies</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
