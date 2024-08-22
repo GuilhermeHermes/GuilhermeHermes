@@ -38,6 +38,14 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/10251060?s=48&v=4" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://insomnia.rest" target="_blank" rel="noreferrer">
+    <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="postgresql" width="80" height="60"/>
+  </a>
+  
+  
 </p>
 <h3>Other technologies where I have notions</h3>
 <p align="left">
