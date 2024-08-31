@@ -1,5 +1,5 @@
 ## Hi there 👋
-img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHermes&show_icons=true&theme=tokyonight" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHermes&show_icons=true&theme=tokyonight" />
 <h3>Front-end technologies</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
